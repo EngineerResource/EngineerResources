@@ -8,4 +8,4 @@ how to use the formulas, and the ability to do calculations using the formulas.
 
 ## Table of Contents
 
-[Networks](shejxheuz)
+[Network Communication Protocols](shejxheuz)
